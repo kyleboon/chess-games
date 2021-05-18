@@ -1,0 +1,18 @@
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2021.05.17"]
+[White "mdknight0"]
+[Black "kyle_b81"]
+[Result "0-1"]
+[WhiteElo "1158"]
+[BlackElo "1347"]
+[TimeControl "5430"]
+[Termination "kyle_b81 won by checkmate"]
+[UTCDate "2021.05.18"]
+[UTCTime "13:00:15"]
+[Variant "Standard"]
+[ECO "B70"]
+[Opening "Sicilian Defense: Dragon Variation, Classical Variation"]
+[Annotator "https://lichess.org/@/kyle_boon"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O a6 8. Be3 Nbd7 9. Qc1 b5 10. a3? { Mistake. a4 was best. } (10. a4) 10... Bb7 11. Bd3? { Mistake. f3 was best. } (11. f3 O-O 12. Rd1 e6 13. Bh6 Qb6 14. Kh1 Rac8 15. Bxg7 Kxg7 16. Qg5 Rfd8 17. Rd2 h6) 11... Rc8?! { Inaccuracy. Ng4 was best. } (11... Ng4) 12. Re1 O-O 13. h3 Nc5 14. Bh6 e5 15. Nf3 Nh5 16. Bxg7 Kxg7 17. Nh2?! { Inaccuracy. Qe3 was best. } (17. Qe3) 17... Nf4 18. Qe3 Qg5 19. Bf1 f5 20. Qg3?! { Inaccuracy. g3 was best. } (20. g3 Nfe6) 20... Qf6 21. exf5 Qxf5?! { Inaccuracy. Nh5 was best. } (21... Nh5 22. Qg4) 22. Rac1? { Mistake. Rad1 was best. } (22. Rad1) 22... Nh5? { Mistake. Nce6 was best. } (22... Nce6 23. Ne2) 23. Qe3 Nf4 24. Rcd1 Rcd8 25. Rd2 Nce6 26. Qb6?? { Blunder. h4 was best. } { Stockfish says. this was a blunder but I did not feel that way during the game. It looked like it forked the d6 pawn and b7 bishop, and I was going to lose the d6 pawn at least, plus the e5 pawn was in trouble. I did briefly consider the computer's suggested move of Bg2 but it didn't appear to be a winning move to me. I missed that after Qg2 I'm threatening mate and forking the d2 rook. This should have ended the game effectively. } (26. h4 g5 27. Ne4 Bxe4 28. Qxe4 gxh4 29. Qxf5 Rxf5 30. Nf3 Nh3+ 31. Kh2 Nhg5 32. Nxg5 Nxg5) 26... Rf7?? { Blunder. Bxg2 was best. } 27. Rxd6?? { Blunder. Qe3 was best. } (27. Qe3) 27... Qg5?? { Blunder. Nxh3+ was best. } (27... Nxh3+ 28. gxh3 Rxd6 29. Qe3 h5 30. h4 Nf4 31. a4 b4 32. Ne2 a5 33. Nxf4 exf4 34. Qe5+) 28. g3 Rxd6 29. Qxd6 Nd4 { I played this intending to follow up with Kf3 after Rxe5 (or Qxe5) but I lost track of the knight on h2. I got really lucky this didn't lose the game for me I think. } 30. Rxe5?? { Blunder. h4 was best. } (30. h4 Qe7 31. Qxe7 Rxe7 32. gxf4 e4 33. Bd3 Nf5 34. Bxe4 Nxh4 35. Kf1 Bxe4 36. Rxe4 Rb7) 30... Nf5?? { Blunder. Nxh3+ was best. } (30... Nxh3+) 31. Ne4?? { Blunder. Qc5 was best. } (31. Qc5 Qh6 32. h4 Qh5 33. Ne2 Nxe2+ 34. Bxe2 Qh6 35. Qc3 Kg8 36. Bf3 Qf8 37. Bxb7 Rxb7) 31... Bxe4?? { Blunder. Nxh3+ was best. } (31... Nxh3+ 32. Bxh3) 32. Rxe4?? { Blunder. Qb4 was best. } (32. Qb4 Nxh3+ 33. Bxh3 Qc1+ 34. Bf1 Nxg3 35. Rxe4 Nxe4 36. Qxe4 Qxb2 37. Ng4 h5 38. Ne5 Rf5) 32... Nxd6 33. Nf3 Qf5 34. Re5 Nxh3+ 35. Kh2 Qxf3 36. Bxh3 Qxf2+ 37. Bg2 Rf5 38. Re6 Rh5# { 0-1 Black wins by checkmate. } 0-1
